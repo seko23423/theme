@@ -6,8 +6,8 @@
         "version" : "1.0.6",
         "dofusVersion" : "2.42",
         "description" : "Updated Swlord's Sram theme, original: http://www.dofus.tools/?page=themeDetails&id=94",
-        "url" : "https://github.com/Gravestorm/DofusThemes/blob/master/Sram.zip?raw=true",
-        "previewUrl" : "",
+        "url" : "https://rawgit.com/Gravestorm/DofusThemes/master/Sram.zip",
+        "previewUrl" : "https://rawgit.com/Gravestorm/DofusThemes/master/Sram_Preview.jpg",
         "creationDate" : "25/10/2016",
         "modificationDate" : "04/07/2017"
     }
