@@ -1,6 +1,6 @@
 [
     {
-        "author" : "Swlord",
+        "author" : "Gravestorm",
         "name" : "Sram",
         "keyWords" : "sram",
         "version" : "1.1.0",
@@ -9,6 +9,18 @@
         "url" : "https://rawgit.com/Gravestorm/DofusThemes/master/Sram.zip",
         "previewUrl" : "https://rawgit.com/Gravestorm/DofusThemes/master/Sram_Preview.jpg",
         "creationDate" : "25/10/2016",
-        "modificationDate" : "04/07/2017"
+        "modificationDate" : "05/07/2017"
+    },
+        {
+        "author" : "Gravestorm",
+        "name" : "SramTactical",
+        "keyWords" : "sram, tactical",
+        "version" : "1.1.0",
+        "dofusVersion" : "2.42",
+        "description" : "Updated Swlord's Sram Theme, with custom Tactical Mode",
+        "url" : "https://rawgit.com/Gravestorm/DofusThemes/master/SramTactical.zip",
+        "previewUrl" : "https://rawgit.com/Gravestorm/DofusThemes/master/SramTactical_Preview.jpg",
+        "creationDate" : "25/10/2016",
+        "modificationDate" : "05/07/2017"
     }
 ]
