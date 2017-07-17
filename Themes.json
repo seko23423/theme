@@ -22,5 +22,17 @@
         "previewUrl" : "https://rawgit.com/Gravestorm/DofusThemes/master/TacticalSram_Preview.jpg",
         "creationDate" : "16/07/2017",
         "modificationDate" : "17/07/2017"
+    },
+        {
+        "author" : "Gravestorm",
+        "name" : "TacticalSnow",
+        "keyWords" : "snow, tactical, theme, mode",
+        "version" : "1.0.0",
+        "dofusVersion" : "2.42",
+        "description" : "Snow Tactical Theme",
+        "url" : "https://rawgit.com/Gravestorm/DofusThemes/master/TacticalSnow.zip",
+        "previewUrl" : "https://rawgit.com/Gravestorm/DofusThemes/master/TacticalSnow_Preview.jpg",
+        "creationDate" : "16/07/2017",
+        "modificationDate" : "17/07/2017"
     }
 ]
