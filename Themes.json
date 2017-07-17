@@ -11,7 +11,7 @@
         "creationDate" : "25/10/2016",
         "modificationDate" : "05/07/2017"
     },
-        {
+    {
         "author" : "Gravestorm",
         "name" : "TacticalSram",
         "keyWords" : "sram, tactical, theme, mode",
@@ -23,7 +23,19 @@
         "creationDate" : "16/07/2017",
         "modificationDate" : "17/07/2017"
     },
-        {
+    {
+        "author" : "Gravestorm",
+        "name" : "TacticalMagma",
+        "keyWords" : "Magma, tactical, theme, mode",
+        "version" : "1.0.0",
+        "dofusVersion" : "2.42",
+        "description" : "Magma Tactical Theme",
+        "url" : "https://rawgit.com/Gravestorm/DofusThemes/master/TacticalMagma.zip",
+        "previewUrl" : "https://rawgit.com/Gravestorm/DofusThemes/master/TacticalMagma_Preview.jpg",
+        "creationDate" : "16/07/2017",
+        "modificationDate" : "17/07/2017"
+    },
+    {
         "author" : "Gravestorm",
         "name" : "TacticalSnow",
         "keyWords" : "snow, tactical, theme, mode",
